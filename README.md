@@ -1,8 +1,8 @@
-<head> <h1>Resumo dos projetos desenvolvidos no curso de Lógica de Programação da Alura:</h1>
+<h1>Resumo dos projetos desenvolvidos no curso de Lógica de Programação da Alura:</h1>
 
 <h2>Este repositório reúne projetos práticos criados para aplicar conceitos fundamentais de lógica de programação com JavaScript. Ao longo dos desafios, foram desenvolvidas soluções completas com manipulação do DOM, uso de variáveis, funções, condicionais, loops e validações de dados.
 
-Os projetos incluem:</h2> </head> 
+Os projetos incluem:</h2>  
 
 <body>
 • Sorteador de números, com geração aleatória e validação de entradas
